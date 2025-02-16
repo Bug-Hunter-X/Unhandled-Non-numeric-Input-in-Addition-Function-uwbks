@@ -1,0 +1,3 @@
+# Unhandled Non-numeric Input in JavaScript Function
+
+This repository demonstrates a common JavaScript error: performing arithmetic operations on non-numeric input without proper type checking. The `foo` function adds two input values, but it does not handle the case where the inputs are not numbers, leading to runtime errors.  The solution demonstrates robust error handling using type checking and alternative return values.
